@@ -95,9 +95,9 @@ DOMAIN-SUFFIX,perplexity.ai
 # NAME: meta
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
-DOMAIN-SUFFIX:adsmeta.com
-DOMAIN-SUFFIX:analytics.meta.com
-DOMAIN-SUFFIX:meta.com
+DOMAIN-SUFFIX,adsmeta.com
+DOMAIN-SUFFIX,analytics.meta.com
+DOMAIN-SUFFIX,meta.com
 
 # NAME: Claude
 DOMAIN,cdn.usefathom.com
