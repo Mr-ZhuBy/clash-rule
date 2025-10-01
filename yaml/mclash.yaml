@@ -39,7 +39,7 @@ ClassicalYaml: &ClassicalYaml {type: http, interval: 86400, behavior: classical,
 
 # 机场配置模块
 proxy-providers:
-  sub: {<<: *DProviders, url: 'http://10.0.0.11:3001/2cXaAxRGfddmGz2yx1wA/download/collection/store', override: {additional-prefix: '[sub] '}}
+  sub: {<<: *DProviders, url: '机场订阅地址', override: {additional-prefix: '[sub] '}}
 
 # 策略组 
 proxy-groups:
